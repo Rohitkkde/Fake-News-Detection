@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
         pip install -r requirements.txt
 
     5. Run the Flask application.
-        python app.py
+        python application.py
 
     6. Open a web browser and access the web application at http://localhost:5000.
 
