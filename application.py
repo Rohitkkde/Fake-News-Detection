@@ -6,7 +6,7 @@ import pandas as pd
 
 
 vector = pickle.load(open("Model/vectorizor.pkl", "rb"))
-model = pickle.load(open("Model/finalized_model.pkl", "rb"))
+model = pickle.load(open("Model/finalized_model.pkl", "rb"))   
 application = Flask(__name__)
 app=application
 
